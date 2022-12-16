@@ -1,2 +1,2 @@
-# 8PuzzelProblem
-Solving the 8 puzzles problem in Python using the Bfs & Dfs Algorithm
+# 15PuzzelProblem
+Solving the 15 puzzles problem in Python using the Bfs & Dfs Algorithm
